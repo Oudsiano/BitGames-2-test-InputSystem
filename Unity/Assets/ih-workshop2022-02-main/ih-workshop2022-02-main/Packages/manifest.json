@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "com.unity.cinemachine": "2.6.11",
+    "com.unity.ugui": "1.0.0",
+    "com.unity.modules.animation": "1.0.0",
+    "com.unity.modules.director": "1.0.0",
+    "com.unity.modules.physics": "1.0.0"
+  }
+}
